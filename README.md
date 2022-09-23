@@ -29,7 +29,8 @@ apabila ingin melakukan generate project sendri dapat melakukan step sebagai ber
 
 
 5. setelah itu buka cypress, untuk mendapatkan e2e folder dan formated code cypress default, run :
-`- npx cypress open`
+
+`npx cypress open`
 
 6. kemudian kembali ke project dan lakukan sesuai seperti video.
 
